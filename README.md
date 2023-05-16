@@ -1,1 +1,1 @@
-https://github.com/baoxelo/BaoShop.git
+https://baoxelo.github.io/BaoShop/
